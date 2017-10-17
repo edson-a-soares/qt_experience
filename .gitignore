@@ -1,0 +1,3 @@
+# JetBrains CLion IDE files
+cmake-build-debug/*
+.idea/*
